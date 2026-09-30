@@ -1,0 +1,26 @@
+lender_id,lender_name,lender_type
+LND001,Lender A,Invoice Platform
+LND002,Lender B,NBFC
+LND003,Lender C,NBFC
+LND004,Lender D,FinTech Lender
+LND005,Lender E,Invoice Platform
+LND006,Lender F,FinTech Lender
+LND007,Lender G,FinTech Lender
+LND008,Lender H,Invoice Platform
+LND009,Lender I,FinTech Lender
+LND010,Lender J,FinTech Lender
+LND011,Lender K,FinTech Lender
+LND012,Lender L,Bank
+LND013,Lender M,NBFC
+LND014,Lender N,NBFC
+LND015,Lender O,FinTech Lender
+LND016,Lender P,Bank
+LND017,Lender Q,Invoice Platform
+LND018,Lender R,Invoice Platform
+LND019,Lender S,Invoice Platform
+LND020,Lender T,FinTech Lender
+LND021,Lender U,FinTech Lender
+LND022,Lender V,NBFC
+LND023,Lender W,NBFC
+LND024,Lender X,Invoice Platform
+LND025,Lender Y,Invoice Platform
