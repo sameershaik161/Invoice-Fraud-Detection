@@ -4,13 +4,17 @@
 
 An explainable multi-lender invoice intelligence and double-financing prevention platform built for Hackzen 2026 Problem Statement #21.
 
+### 🚀 Live Demo
+
+**Frontend:** https://invoice-factoring-guard.onrender.com/
+
 ---
 
 ## Problem
 
 An MSME may submit the same invoice to multiple lenders, receiving financing against the same receivable from each — creating a "double-financing" fraud risk.
 
-```
+```text
 Invoice INV-1024
 Seller: ABC Pvt Ltd → Buyer: XYZ Industries → Amount: ₹10,00,000
 
